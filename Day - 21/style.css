@@ -1,0 +1,13 @@
+.content{
+    font-size:80px;
+    text-align: center;
+    text-shadow: 25px;
+    color:rgb(38, 0, 255);
+    padding-top: 250px;
+    text-shadow: 30px;
+    font-family:Gotham Rounded;
+}
+
+body{
+     background:linear-gradient(to right, #00AAFF,#00FF6C); 
+}
